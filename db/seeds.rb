@@ -8,3 +8,7 @@ pizza = Api::V1::Food.create(
     name: 'Pizza',
     likes: 100
     )
+cake = Api::V1::Food.create(
+    name: 'cake',
+    likes: 100
+    )
