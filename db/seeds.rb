@@ -4,3 +4,7 @@ burger = Api::V1::Food.create(
     name: 'Cheeseburger',
     likes: 100
     )
+pizza = Api::V1::Food.create(
+    name: 'Pizza',
+    likes: 100
+    )
